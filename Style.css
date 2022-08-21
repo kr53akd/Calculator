@@ -22,15 +22,15 @@ input{
     justify-content: center;
 }
 .container .body{
-    width: 22rem;
+    width: 18rem;
     height: 57vh;
     border: solid rgb(9, 7, 7) 2px;
-    padding:50px 40px 40px 40px;
+    padding:50px 35px 35px 35px;
     border-radius: 7px;
     background-color: aqua;
 }
 .container .box{
-     width: 21.5rem;
+     width: 17.5rem;
      height: 10vh;
      border: solid black 2px;
      border-radius: 5px;
@@ -71,25 +71,25 @@ input{
     
 }
 .container .btnclr{
-    width: 10.5rem;
+    width: 8.5rem;
 }
 .container .btnnum{
-    width: 5rem;
+    width: 4rem;
 }
 .container .btnlong{
     height: 18.5vh;
     padding-top: 2rem;
-    width: 5rem;
+    width: 4rem;
     border-radius: 5px;
     font-size: large;
     font-weight: bolder;
 }
 .container .btnzero{
-    width: 10.5rem;
+    width: 8.5rem;
     height: 10.5vh;
 }
 .container .btndot{
-    width: 5rem;
+    width: 4rem;
     height:10.5vh ;
 }
 .btn:hover{
@@ -97,4 +97,6 @@ input{
     background-color: rgb(86, 83, 83);
     border:solid black 1px;
 }
+
+
 
